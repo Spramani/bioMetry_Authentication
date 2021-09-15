@@ -73,13 +73,6 @@ class ViewController: UIViewController {
             print("User has not enrolled into using Biometrics")
         }
     }
-    ///
-    //
-    //
-    //
-    //
-    //
-    
     
     func getErrorDescription(errorCode: Int) -> String {
      
